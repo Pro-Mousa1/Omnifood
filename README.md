@@ -9,8 +9,13 @@ information across all devices.
 🚀 Features
 
  Fully Responsive – Works flawlessly on desktops, tablets, and mobile devices.
+ 
  Visually Appealing – Clean and modern design with an intuitive layout.
+ 
  User-Friendly – Simple navigation and well-structured content for a smooth experience.
+ 
  High Performance – Optimized for speed and SEO to enhance discoverability.
+ 
  Cross-Browser Compatibility – Ensures a consistent experience across all major browsers.
+ 
  Fast & Secure – Follows best practices for web security and performance.
